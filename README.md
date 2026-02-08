@@ -1,4 +1,4 @@
-# CVLDocs — The Definitive Certora Knowledge Base
+## CVLDocs — The Definitive Certora Knowledge Base
 
 > **Complete documentation for Certora Prover and CVL (Certora Verification Language)**  
 > Combining official Certora reference precision with RareSkills pedagogical excellence  
